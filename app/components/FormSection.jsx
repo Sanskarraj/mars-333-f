@@ -8,7 +8,7 @@ import Link from 'next/link'
 
 
 
-const ENDPOINT = 'http://192.168.1.10:9000';
+const ENDPOINT = 'http://192.168.1.10:8000';
 
 
 
